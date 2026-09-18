@@ -8,8 +8,8 @@ mvn spring-boot:run
 export JWT_SECRET="$(openssl rand -base64 32)"
 mvn spring-boot:run
 
-ID = admin@tradehub.com
-Pass = Admin@123
+ID = **************
+Pass = *************
 
 Area	                                                        Status
 
