@@ -11,6 +11,8 @@ mvn spring-boot:run
 ID = **************
 Pass = *************
 
+How to start backend = mvn spring-boot:run
+
 Area	                                                        Status
 
 Auth (register/login/JWT, roles)	                          ✅ Complete
