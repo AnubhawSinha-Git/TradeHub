@@ -7,6 +7,7 @@ mvn spring-boot:run
 
 export JWT_SECRET="$(openssl rand -base64 32)"
 mvn spring-boot:run
+npm run web
 
 ID = **************
 Pass = *************
